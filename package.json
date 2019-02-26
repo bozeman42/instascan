@@ -43,6 +43,7 @@
     "vinyl-source-stream": "^1.1.0"
   },
   "dependencies": {
+    "@zxing/library": "^0.12.1",
     "babel-polyfill": "^6.9.1",
     "fsm-as-promised": "^0.13.0",
     "visibilityjs": "^1.2.3",
